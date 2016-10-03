@@ -30,13 +30,13 @@ Example: ./modelViewer a1files/cube.obj
 
 SOURCED WEBSITES
 --------------------------------------------------------------
-http://stackoverflow.com/questions/12938899/how-do-the-and-operators-do-i-o <br />
-http://stackoverflow.com/questions/236129/split-a-string-in-c <br />
-http://stackoverflow.com/questions/30675422/obj-model-parser-doesnt-work-correctly-opengl <br />
-https://en.wikibooks.org/wiki/OpenGL_Programming/Modern_OpenGL_Tutorial_Load_OBJ <br />
-https://kefinscode.wordpress.com/2013/08/08/parsing-obj-for-opengl-correctly/ <br />
-http://www.cplusplus.com/forum/beginner/152365/ <br />
-http://www.cplusplus.com/forum/general/87738/ <br />
-http://www.cplusplus.com/reference/fstream/ifstream/ <br />
-http://www.cplusplus.com/reference/vector/vector/ <br />
-http://www.cplusplus.com/reference/vector/vector/at/ <br />
+http://stackoverflow.com/questions/12938899/how-do-the-and-operators-do-i-o
+http://stackoverflow.com/questions/236129/split-a-string-in-c
+http://stackoverflow.com/questions/30675422/obj-model-parser-doesnt-work-correctly-opengl
+https://en.wikibooks.org/wiki/OpenGL_Programming/Modern_OpenGL_Tutorial_Load_OBJ
+https://kefinscode.wordpress.com/2013/08/08/parsing-obj-for-opengl-correctly/
+http://www.cplusplus.com/forum/beginner/152365/
+http://www.cplusplus.com/forum/general/87738/
+http://www.cplusplus.com/reference/fstream/ifstream/
+http://www.cplusplus.com/reference/vector/vector/
+http://www.cplusplus.com/reference/vector/vector/at/
